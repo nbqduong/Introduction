@@ -1,6 +1,8 @@
 ## Tham khảo git
-[Các lệnh cơ bản liên quan đến quản lý nội dung](https://git-scm.com/docs/gittutorial) 
-[Cách trình bày file Readme](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+#### [Các lệnh cơ bản liên quan đến quản lý nội dung](https://git-scm.com/docs/gittutorial) 
+#### [Cách trình bày file Readme](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 ## Tạo một repositor mới:
 	git init
 ## Tải 1 repositor về máy
