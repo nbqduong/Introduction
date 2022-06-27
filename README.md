@@ -3,6 +3,7 @@
 #### [Các lệnh cơ bản liên quan đến quản lý nội dung](https://git-scm.com/docs/gittutorial) 
 #### [Cách trình bày file Readme](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 #### [Trang github mẫu](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#customization)
+#### [Cách đăng nhập git trên Linux](https://linuxhint.com/git-login-command/)
 
 ## Tạo một repositor mới:
 	git init
